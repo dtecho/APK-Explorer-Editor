@@ -40,6 +40,16 @@ AEE currently supports the following tasks
      alt=""
      height="80">](https://t.me/apkexplorer)
 
+## Technical Documentation
+
+📚 **[Complete Technical Architecture Documentation](docs/README.md)** - Comprehensive system architecture documentation with detailed Mermaid diagrams covering:
+
+- **[System Architecture](docs/ARCHITECTURE.md)** - Overall system design, patterns, and security architecture
+- **[Component Documentation](docs/COMPONENTS.md)** - Detailed breakdown of activities, fragments, services, and utilities  
+- **[Data Flow Documentation](docs/DATAFLOW.md)** - Processing workflows, user interactions, and error handling
+- **[Deployment Documentation](docs/DEPLOYMENT.md)** - Build system, CI/CD pipeline, and infrastructure
+- **[API & Integration Documentation](docs/API_INTEGRATION.md)** - Internal APIs, system integration, and extensibility
+
 ## Credits
 A list of people who contributed to this project is available [here](Credits.md).
 
